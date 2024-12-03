@@ -1,4 +1,4 @@
-# license-plate-detc-ection-using-yolov8
+# license-plate-detection-using-yolov8
 
 This project demonstrates license plate detection using the YOLOv8 model. The system can identify and locate license plates in images with high accuracy, making it suitable for tasks such as vehicle monitoring, parking systems, and traffic enforcement.
 
